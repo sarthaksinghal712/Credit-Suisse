@@ -1,5 +1,9 @@
-# Made By: Sarthak Singhal - Year 1 - The Hong Kong University of Science and Technology
-# Bachelor of Engineering
+
+
+# Formatted file available at https://github.com/sarthaksinghal712/Credit-Suisse/
+
+
+# Made By: Sarthak Singhal - Year 1 - The Hong Kong University of Science and Technology - Bachelor of Engineering
 # Method Used: Recurssion and elimination
 # Primary and the only Function as per requirement
 
